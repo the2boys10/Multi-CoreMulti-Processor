@@ -1,0 +1,1 @@
+Tried to further inprove upon previous implementation of calculation of pearsons coefficient by making use of openMP, looking to optimize using VTuneAmplifier.

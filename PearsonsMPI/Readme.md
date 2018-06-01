@@ -1,0 +1,1 @@
+The aim of this program was to solve the pearsons coefficient using MPI the implementation used ScatterV as well as Scatter.

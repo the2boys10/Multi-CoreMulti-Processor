@@ -1,0 +1,1 @@
+Breaking the KKK algorithm in parallel using openMP and MPI

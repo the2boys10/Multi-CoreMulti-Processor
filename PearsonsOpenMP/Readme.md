@@ -1,0 +1,1 @@
+The aim of this program was to solve the pearsons coefficient using openmp the implementation tested the performance of various scheduling techniques.
